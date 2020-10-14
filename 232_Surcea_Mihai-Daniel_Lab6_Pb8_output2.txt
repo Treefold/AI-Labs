@@ -1,0 +1,20 @@
+
+Using Hlocked
+Path:
+(Info=[0, 0, 0]; UsedKey='None'; h=0; g=0; f=0)
+Duration: 0.0
+
+Using Hsum
+Path:
+(Info=[0, 0, 0]; UsedKey='None'; h=0; g=0; f=0)
+Duration: 0.0
+
+Using Hmax
+Path:
+(Info=[0, 0, 0]; UsedKey='None'; h=0; g=0; f=0)
+Duration: 0.0
+
+Using HH
+Path:
+(Info=[0, 0, 0]; UsedKey='None'; h=[0, 0]; g=0; f=[0, 0])
+Duration: 0.0

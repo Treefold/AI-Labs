@@ -1,4 +1,5 @@
 import time
+import numpy
 h = {'a': float('inf'), 'b': 10, 'c': 3, 'd': 7, 'e': 8, 'f': 0, 'g': 14, 'i': 3, 'j': 1, 'k': 2 }
 g = {}
 f = {}

@@ -1,0 +1,45 @@
+
+Using Hlocked
+Path:
+(Info=[2, 5, 5, 2]; UsedKey='None'; h=4; g=0; f=4)
+(Info=[1, 4, 5, 1]; UsedKey='ddgd'; h=4; g=1; f=5)
+(Info=[0, 4, 4, 0]; UsedKey='dgdd'; h=2; g=2; f=4)
+(Info=[0, 3, 3, 0]; UsedKey='gddg'; h=2; g=3; f=5)
+(Info=[0, 2, 2, 0]; UsedKey='gddg'; h=2; g=4; f=6)
+(Info=[0, 1, 1, 0]; UsedKey='gddg'; h=2; g=5; f=7)
+(Info=[0, 0, 0, 0]; UsedKey='gddg'; h=0; g=6; f=6)
+Duration: 0.00099945068359375
+
+Using Hsum
+Path:
+(Info=[2, 5, 5, 2]; UsedKey='None'; h=14; g=0; f=14)
+(Info=[1, 4, 5, 1]; UsedKey='ddgd'; h=11; g=1; f=12)
+(Info=[0, 3, 5, 0]; UsedKey='ddgd'; h=8; g=2; f=10)
+(Info=[0, 2, 4, 0]; UsedKey='gddg'; h=6; g=3; f=9)
+(Info=[0, 1, 3, 0]; UsedKey='gddg'; h=4; g=4; f=8)
+(Info=[0, 0, 2, 0]; UsedKey='gddg'; h=2; g=5; f=7)
+(Info=[0, 0, 1, 0]; UsedKey='gddg'; h=1; g=6; f=7)
+(Info=[0, 0, 0, 0]; UsedKey='gddg'; h=0; g=7; f=7)
+Duration: 0.0
+
+Using Hmax
+Path:
+(Info=[2, 5, 5, 2]; UsedKey='None'; h=5; g=0; f=5)
+(Info=[2, 4, 4, 2]; UsedKey='gddg'; h=4; g=1; f=5)
+(Info=[2, 3, 3, 2]; UsedKey='gddg'; h=3; g=2; f=5)
+(Info=[2, 2, 2, 2]; UsedKey='gddg'; h=2; g=3; f=5)
+(Info=[2, 1, 1, 2]; UsedKey='gddg'; h=2; g=4; f=6)
+(Info=[1, 0, 1, 1]; UsedKey='ddgd'; h=1; g=5; f=6)
+(Info=[0, 0, 0, 0]; UsedKey='dgdd'; h=0; g=6; f=6)
+Duration: 0.0020003318786621094
+
+Using HH
+Path:
+(Info=[2, 5, 5, 2]; UsedKey='None'; h=[5, 14]; g=0; f=[5, 14])
+(Info=[2, 4, 4, 2]; UsedKey='gddg'; h=[4, 12]; g=1; f=[5, 13])
+(Info=[2, 3, 3, 2]; UsedKey='gddg'; h=[3, 10]; g=2; f=[5, 12])
+(Info=[2, 2, 2, 2]; UsedKey='gddg'; h=[2, 8]; g=3; f=[5, 11])
+(Info=[1, 1, 2, 1]; UsedKey='ddgd'; h=[2, 5]; g=4; f=[6, 9])
+(Info=[0, 1, 1, 0]; UsedKey='dgdd'; h=[1, 2]; g=5; f=[6, 7])
+(Info=[0, 0, 0, 0]; UsedKey='gddg'; h=[0, 0]; g=6; f=[6, 6])
+Duration: 0.000997304916381836

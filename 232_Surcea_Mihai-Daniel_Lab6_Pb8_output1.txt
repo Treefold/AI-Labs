@@ -1,0 +1,16 @@
+
+Using Hlocked
+Duration: 0.0
+Unsolvable
+
+Using Hsum
+Duration: 0.0
+Unsolvable
+
+Using Hmax
+Duration: 0.0009989738464355469
+Unsolvable
+
+Using HH
+Duration: 0.00099945068359375
+Unsolvable
